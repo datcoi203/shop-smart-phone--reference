@@ -1,1 +1,1 @@
-# shop-smart-phone--reference
+# shop-smart-phone-reference
